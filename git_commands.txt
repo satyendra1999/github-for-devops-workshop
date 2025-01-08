@@ -26,4 +26,7 @@ git push origin master
 clear
 
 
+hello dosto kaise ho
+
+
 this is some new changes
